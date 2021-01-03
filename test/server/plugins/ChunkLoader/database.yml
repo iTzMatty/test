@@ -1,0 +1,15 @@
+# This is the Database of ChunkLoader v1.0.4.
+# /-----------------------/WARNING/-----------------------/
+# 
+#  !!!  DO NOT CHANGE ANYTHING  !!! 
+# 
+# /-----------------------/WARNING/-----------------------/
+
+version: 1.0.4
+Force Chunkload: true
+Groups: {}
+Chunks:
+- 89, 39, world
+- 89, 38, world
+- 88, 38, world
+- 88, 37, world

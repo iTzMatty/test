@@ -1,0 +1,28 @@
+lastAccountName: iiiKubko
+timestamps:
+  login: 1609273391848
+  logout: 1609273670853
+  lastteleport: 1609273005080
+ipAddress: 84.47.111.22
+lastlocation:
+  world: world_the_end
+  x: 14.300000011920929
+  y: 62.0
+  z: -34.69999998807907
+  yaw: 317.90997
+  pitch: 36.428493
+homes:
+  home:
+    world: world
+    x: 1473.0860233345406
+    y: 81.0
+    z: 572.8686632538142
+    yaw: -133.08005
+    pitch: 86.902565
+logoutlocation:
+  world: world
+  x: 1451.5
+  y: 78.7125
+  z: 631.0823000173762
+  yaw: 148.66235
+  pitch: 15.354683

@@ -1,0 +1,28 @@
+lastAccountName: nOnAmE8520
+timestamps:
+  login: 1609272841657
+  logout: 1609273676602
+  lastteleport: 1609273170057
+ipAddress: 84.47.111.22
+lastlocation:
+  world: world
+  x: 1427.9585337537542
+  y: 75.0
+  z: 607.3478046379605
+  yaw: 278.23535
+  pitch: 4.6401014
+homes:
+  home:
+    world: world
+    x: 1470.9285872194462
+    y: 83.0
+    z: 623.1680024919156
+    yaw: 236.29749
+    pitch: -17.334234
+logoutlocation:
+  world: world
+  x: 1445.699999988079
+  y: 77.0
+  z: 624.087299139299
+  yaw: 307.32
+  pitch: 19.149319

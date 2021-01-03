@@ -1,0 +1,28 @@
+lastAccountName: ZofreM_
+timestamps:
+  login: 1609270529302
+  logout: 1609273756300
+  lastteleport: 1609273385105
+ipAddress: 95.103.24.92
+lastlocation:
+  world: world
+  x: 162.624152846422
+  y: 69.0
+  z: 185.30832627111596
+  yaw: -35.097626
+  pitch: 10.199999
+homes:
+  home:
+    world: world
+    x: 1472.2420985304732
+    y: 84.0
+    z: 623.7639106025213
+    yaw: 2.0279846
+    pitch: 15.900801
+logoutlocation:
+  world: world
+  x: 1459.3427201365894
+  y: 81.0
+  z: 632.1385574492593
+  yaw: 61.138428
+  pitch: 25.801266

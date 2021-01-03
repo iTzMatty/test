@@ -1,0 +1,364 @@
+[17:21:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:21:40] [Worker-Main-1/INFO]: Loaded 7 recipes
+[17:21:41] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:21:41] [Server thread/INFO]: Loading properties
+[17:21:41] [Server thread/INFO]: This server is running Paper version git-Paper-342 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[17:21:41] [Server thread/INFO]: Debug logging is disabled
+[17:21:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:21:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:21:42] [Server thread/INFO]: Default game type: SURVIVAL
+[17:21:42] [Server thread/INFO]: Generating keypair
+[17:21:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:21:42] [Server thread/INFO]: Using epoll channel type
+[17:21:43] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.35
+[17:21:43] [ForkJoinPool-1-worker-37/INFO]: [LuckPerms] It is safe to ignore any warning printed following this message starting with 'WARNING: An illegal reflective access operation has occurred, Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader'. This is intended, and will not have any impact on the operation of LuckPerms.
+[17:21:43] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.6
+[17:21:43] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[17:21:43] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v2.2.0
+[17:21:43] [Server thread/INFO]: [ChunkLoader] Loading ChunkLoader v1.0.4
+[17:21:43] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[17:21:43] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[17:21:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:21:43] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.35
+[17:21:43] [Server thread/INFO]:         __    
+[17:21:43] [Server thread/INFO]:   |    |__)   LuckPerms v5.2.35
+[17:21:43] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:21:43] [Server thread/INFO]: 
+[17:21:43] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:21:44] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:21:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:21:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:21:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2335ms)
+[17:21:45] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:21:45] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[17:21:45] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:21:45] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:21:45] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:21:45] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[17:21:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:21:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:21:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:21:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:21:45] [Server thread/INFO]: Preparing level "world"
+[17:21:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:21:46] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[17:21:46] [Server thread/INFO]: Preparing spawn area: 0%
+[17:21:46] [Server thread/INFO]: Preparing spawn area: 0%
+[17:21:46] [Server thread/INFO]: Time elapsed: 679 ms
+[17:21:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:21:47] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[17:21:47] [Server thread/INFO]: Time elapsed: 719 ms
+[17:21:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:21:47] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[17:21:47] [Server thread/INFO]: Time elapsed: 123 ms
+[17:21:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.6
+[17:21:47] [Server thread/INFO]: [SkinsRestorer] Using PaperSkinRefresher
+[17:21:47] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_16_R3, using UniversalSkinFactory.
+[17:21:47] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[17:21:49] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v2.2.0
+[17:21:49] [Server thread/INFO]: [CommandSigns] Plugin vault detected
+[17:21:49] [Server thread/INFO]: [CommandSigns] Vault economy [Essentials Economy] linked with command signs !
+[17:21:49] [Server thread/WARN]: [CommandSigns] Some command signs were not loaded because their location is not valid: 3
+[17:21:49] [Server thread/INFO]: [CommandSigns] If this plugin is useful to you, you can make a donation at: https://www.paypal.me/nokorbis
+[17:21:49] [Server thread/INFO]: [ChunkLoader] Enabling ChunkLoader v1.0.4
+[17:21:49] [Server thread/INFO]: [ChunkLoader] Loaded all files succesfully!
+[17:21:49] [Server thread/INFO]: [ChunkLoader] ChunkLoader v1.0.4 enabled!
+[17:21:49] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[17:21:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:21:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:21:50] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[17:21:50] [Server thread/INFO]: [Essentials] Using locale en
+[17:21:50] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:21:50] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:21:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:21:50] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[17:21:50] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[17:21:50] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[17:21:51] [Server thread/INFO]: Running delayed init tasks
+[17:21:51] [Server thread/INFO]: Done (9.806s)! For help, type "help"
+[17:21:51] [Server thread/INFO]: Timings Reset
+[17:21:51] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |---------------|
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |   Bukkit only |
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     Current version: 13.8.6
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     This is the latest version!
+[17:21:51] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:52] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[17:21:56] [User Authenticator #1/INFO]: UUID of player ZofreM_ is a2a15fc8-e2e1-3a9b-a833-9986525bc7d7
+[17:21:57] [Server thread/INFO]: ZofreM_ joined the game
+[17:21:57] [Server thread/INFO]: ZofreM_[/95.103.24.92:58909] logged in with entity id 277 at ([world]1441.9252502734046, 77.0, 625.924350288987)
+[17:23:04] [User Authenticator #2/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[17:23:04] [Server thread/INFO]: nOnAmE8520 joined the game
+[17:23:04] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63667] logged in with entity id 645 at ([world]1464.0055093178407, 79.0, 583.5290883540579)
+[17:24:11] [User Authenticator #3/INFO]: UUID of player iTz_Matty_ is 6e5ebf48-9a3c-3430-951a-e275fe982085
+[17:24:11] [Server thread/INFO]: iTz_Matty_ joined the game
+[17:24:11] [Server thread/INFO]: iTz_Matty_[/78.99.35.241:29605] logged in with entity id 779 at ([world]1470.8704403019308, 83.875, 628.7180923283975)
+[17:25:27] [Async Chat Thread - #0/INFO]: <iTz_Matty_> žyvot
+[17:27:03] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[17:27:03] [Server thread/INFO]: nOnAmE8520 left the game
+[17:39:14] [User Authenticator #4/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[17:39:14] [Server thread/INFO]: nOnAmE8520 joined the game
+[17:39:14] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63707] logged in with entity id 3067 at ([world]1470.1380733152655, 83.0, 624.4983081245031)
+[17:42:57] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[17:47:09] [Server thread/INFO]: nOnAmE8520 issued server command: /warp doly
+[17:48:08] [Server thread/INFO]: ZofreM_ issued server command: /home
+[17:49:15] [User Authenticator #5/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[17:49:15] [Server thread/INFO]: iiiKubko joined the game
+[17:49:15] [Server thread/INFO]: iiiKubko[/84.47.111.22:60293] logged in with entity id 5312 at ([world]1468.4396337698652, 80.0, 583.0741370649753)
+[17:51:21] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[17:53:29] [Server thread/INFO]: iTz_Matty_ issued server command: /invsee ZofreM_
+[17:53:36] [Server thread/INFO]: iTz_Matty_ issued server command: /invsee nOnAmE8520
+[17:53:48] [Server thread/INFO]: iTz_Matty_ issued server command: /invsee JouManTV
+[17:53:52] [Server thread/INFO]: iTz_Matty_ issued server command: /invsee iiiKubko
+[17:54:03] [Server thread/INFO]: ZofreM_ issued server command: /home
+[17:54:52] [Server thread/INFO]: iiiKubko issued server command: /warp doly
+[17:55:06] [Server thread/INFO]: iiiKubko issued server command: /home
+[17:55:42] [Server thread/INFO]: iiiKubko issued server command: /warp doly
+[17:55:48] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[17:55:48] [Server thread/INFO]: nOnAmE8520 left the game
+[17:56:44] [User Authenticator #6/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[17:56:44] [Server thread/INFO]: nOnAmE8520 joined the game
+[17:56:44] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63744] logged in with entity id 8432 at ([world_nether]86.92327541544168, 10.0, 56.30000001192093)
+[17:56:44] [Server thread/INFO]: iTz_Matty_ issued server command: /tp nOnAmE8520 iTz_Matty_
+[17:57:24] [Server thread/INFO]: ZofreM_ issued server command: /warp doly
+[18:00:24] [Async Chat Thread - #1/INFO]: <ZofreM_> pocujem vas normalne
+[18:00:27] [Async Chat Thread - #1/INFO]: <ZofreM_> iba tomu jebe
+[18:00:29] [Async Chat Thread - #1/INFO]: <ZofreM_> to klesne :D
+[18:01:38] [Server thread/INFO]: ZofreM_ issued server command: /home
+[18:04:04] [Server thread/INFO]: nOnAmE8520 issued server command: /warp doly
+[18:04:04] [Server thread/WARN]: nOnAmE8520 moved too quickly! -53.97348606338073,-69.0,-36.183476708110334
+[18:04:18] [Server thread/INFO]: iiiKubko issued server command: /warp doly
+[18:05:43] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[18:05:53] [Server thread/INFO]: iTz_Matty_ issued server command: /warp piesok
+[18:07:06] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[18:07:09] [Server thread/INFO]: nOnAmE8520 issued server command: /warp doly
+[18:15:08] [Server thread/INFO]: iiiKubko issued server command: /home
+[18:15:51] [Server thread/INFO]: iTz_Matty_ lost connection: Disconnected
+[18:15:51] [Server thread/INFO]: iTz_Matty_ left the game
+[18:17:24] [Server thread/INFO]: ZofreM_ issued server command: /home
+[18:19:15] [Server thread/INFO]: iiiKubko has made the advancement [Cover Me With Diamonds]
+[18:21:56] [Server thread/INFO]: iiiKubko has made the advancement [A Terrible Fortress]
+[18:24:08] [Server thread/INFO]: iiiKubko issued server command: /home
+[18:25:47] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[18:25:59] [Server thread/INFO]: ZofreM_ issued server command: /home
+[18:33:16] [Server thread/INFO]: nOnAmE8520 issued server command: /tp iiiKubko
+[18:34:17] [User Authenticator #7/INFO]: UUID of player iTz_Matty_ is 6e5ebf48-9a3c-3430-951a-e275fe982085
+[18:34:17] [Server thread/INFO]: iTz_Matty_ joined the game
+[18:34:17] [Server thread/INFO]: iTz_Matty_[/78.99.35.241:53073] logged in with entity id 24131 at ([world]1471.1803544381155, 83.0, 622.684840308056)
+[18:37:33] [Server thread/INFO]: ZofreM_ issued server command: /home
+[18:39:22] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[18:39:27] [Server thread/INFO]: iiiKubko issued server command: /home
+[18:45:46] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[18:45:46] [Server thread/INFO]: nOnAmE8520 left the game
+[18:46:20] [Server thread/INFO]: iiiKubko issued server command: /home
+[18:48:45] [Server thread/INFO]: ZofreM_ issued server command: /home
+[18:52:00] [User Authenticator #8/INFO]: UUID of player JouManTV is db075702-129f-3db8-9298-31d7d6f3ca00
+[18:52:00] [Server thread/INFO]: JouManTV joined the game
+[18:52:00] [Server thread/INFO]: JouManTV[/95.103.39.147:63973] logged in with entity id 34319 at ([world]1473.4078098540044, 83.0, 625.4954889896275)
+[18:55:53] [Server thread/INFO]: ZofreM_ issued server command: /tp JouManTV ZofreM_
+[18:57:25] [Server thread/INFO]: JouManTV issued server command: /warp doly
+[19:00:43] [Server thread/INFO]: iiiKubko issued server command: /home
+[19:01:59] [Server thread/INFO]: ZofreM_ issued server command: /warp piesok
+[19:03:06] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:03:55] [Server thread/INFO]: ZofreM_ issued server command: /sethome
+[19:03:58] [Server thread/INFO]: ZofreM_ issued server command: /warp piesok
+[19:04:23] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:11:57] [User Authenticator #9/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[19:11:57] [Server thread/INFO]: nOnAmE8520 joined the game
+[19:11:57] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63859] logged in with entity id 46774 at ([world]1473.5101305391995, 86.0, 622.9165578057062)
+[19:15:06] [Server thread/INFO]: ZofreM_ has made the advancement [Take Aim]
+[19:18:31] [Server thread/INFO]: iiiKubko has made the advancement [Take Aim]
+[19:22:50] [Server thread/INFO]: nOnAmE8520 has made the advancement [Oh Shiny]
+[19:24:22] [Server thread/INFO]: ZofreM_ issued server command: /warp piesok
+[19:24:46] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:27:04] [Server thread/INFO]: JouManTV issued server command: /home
+[19:29:46] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[19:31:01] [Server thread/INFO]: JouManTV has made the advancement [The Parrots and the Bats]
+[19:34:55] [Server thread/INFO]: iTz_Matty_ issued server command: /kick iiiKubko
+[19:34:55] [Server thread/INFO]: iiiKubko lost connection: Kicked from server.
+[19:34:55] [Server thread/INFO]: iiiKubko left the game
+[19:34:55] [Server thread/INFO]: Player iTz_Matty_ kicked iiiKubko for Kicked from server..
+[19:35:01] [Server thread/INFO]: ZofreM_ lost connection: Disconnected
+[19:35:01] [Server thread/INFO]: ZofreM_ left the game
+[19:35:06] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[19:35:06] [Server thread/INFO]: nOnAmE8520 left the game
+[19:35:21] [Server thread/INFO]: iTz_Matty_ issued server command: /kick JouManTV
+[19:35:21] [Server thread/INFO]: JouManTV lost connection: Kicked from server.
+[19:35:21] [Server thread/INFO]: JouManTV left the game
+[19:35:21] [Server thread/INFO]: Player iTz_Matty_ kicked JouManTV for Kicked from server..
+[19:35:25] [User Authenticator #10/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[19:35:25] [Server thread/INFO]: nOnAmE8520 joined the game
+[19:35:25] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63906] logged in with entity id 55868 at ([world_nether]124.62567900784637, 59.0, 128.76811521743844)
+[19:35:25] [User Authenticator #10/INFO]: UUID of player JouManTV is db075702-129f-3db8-9298-31d7d6f3ca00
+[19:35:25] [Server thread/INFO]: JouManTV joined the game
+[19:35:25] [Server thread/INFO]: JouManTV[/95.103.39.147:64059] logged in with entity id 55873 at ([world]1439.1609091612954, 77.0, 617.6559729197063)
+[19:35:29] [User Authenticator #10/INFO]: UUID of player ZofreM_ is a2a15fc8-e2e1-3a9b-a833-9986525bc7d7
+[19:35:29] [Server thread/INFO]: ZofreM_ joined the game
+[19:35:29] [Server thread/INFO]: ZofreM_[/95.103.24.92:62613] logged in with entity id 55894 at ([world]1348.1494652745216, 75.0, 688.2260200700064)
+[19:35:32] [User Authenticator #10/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[19:35:32] [Server thread/INFO]: iiiKubko joined the game
+[19:35:32] [Server thread/INFO]: iiiKubko[/84.47.111.22:60821] logged in with entity id 55979 at ([world]1449.5, 78.63409999847413, 635.4900000095367)
+[19:35:43] [Server thread/INFO]: iiiKubko lost connection: Disconnected
+[19:35:43] [Server thread/INFO]: iiiKubko left the game
+[19:36:03] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[19:38:39] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:38:45] [Server thread/INFO]: nOnAmE8520 issued server command: /sethome
+[19:41:50] [Server thread/INFO]: ZofreM_ issued server command: /setwarp hlina
+[19:41:50] [pool-13-thread-1/INFO]: [Essentials] Creating empty config: /home/matty/server/plugins/Essentials/warps/hlina.yml
+[19:42:03] [Server thread/INFO]: nOnAmE8520 issued server command: /warp hlina
+[19:42:22] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[19:42:42] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:43:19] [Server thread/INFO]: JouManTV issued server command: /setwarp netherite
+[19:43:19] [pool-13-thread-1/INFO]: [Essentials] Creating empty config: /home/matty/server/plugins/Essentials/warps/netherite.yml
+[19:43:31] [Async Chat Thread - #2/INFO]: <~Sumcek [Hlavny Cigán]> nethrite
+[19:43:36] [Server thread/INFO]: nOnAmE8520 issued server command: /warp netherite
+[19:49:32] [Server thread/INFO]: ZofreM_ issued server command: /invsee JouManTV
+[19:49:32] [Server thread/INFO]: [Essentials] ZofreM_ was denied access to command.
+[19:51:07] [Server thread/INFO]: ZofreM_ issued server command: /warp doly
+[19:51:39] [Server thread/INFO]: JouManTV issued server command: /setwarp net
+[19:51:39] [pool-13-thread-1/INFO]: [Essentials] Creating empty config: /home/matty/server/plugins/Essentials/warps/net.yml
+[19:51:41] [Server thread/INFO]: JouManTV issued server command: /home
+[19:51:58] [User Authenticator #11/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[19:51:59] [Server thread/INFO]: iiiKubko joined the game
+[19:51:59] [Server thread/INFO]: iiiKubko[/84.47.111.22:61301] logged in with entity id 69816 at ([world]1447.5258427372953, 79.0, 636.0898298417451)
+[19:52:12] [Server thread/INFO]: nOnAmE8520 issued server command: /warp net
+[19:52:17] [Server thread/INFO]: iiiKubko issued server command: /WARPNET
+[19:52:19] [Server thread/INFO]: iTz_Matty_ issued server command: /warp dol
+[19:53:04] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[19:54:40] [Server thread/INFO]: iiiKubko issued server command: /warp nedr
+[19:54:47] [Server thread/INFO]: iiiKubko issued server command: /warp net
+[19:56:39] [Server thread/INFO]: ZofreM_ issued server command: /home
+[19:57:20] [Server thread/INFO]: JouManTV issued server command: /tp JouManTV nOnAmE8520
+[19:57:37] [Server thread/INFO]: iiiKubko issued server command: /home
+[19:58:29] [Server thread/INFO]: iiiKubko issued server command: /tp JouManTV
+[19:59:51] [Server thread/INFO]: Villager EntityVillager['Villager'/76517, uuid='f2f49da6-a9c5-49af-b10c-3661647728d8', l='ServerLevel[world]', x=2143.63, y=66.56, z=72.28, cx=133, cz=4, tl=191, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[20:01:06] [Server thread/INFO]: iiiKubko issued server command: /tp nOnAmE8520
+[20:01:19] [Server thread/INFO]: JouManTV issued server command: /tp JouManTV nOnAmE8520
+[20:02:42] [Server thread/INFO]: JouManTV issued server command: /tp JouManTV nOnAmE8520
+[20:02:47] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[20:02:50] [Server thread/INFO]: ZofreM_ issued server command: /tp JouManTV
+[20:03:15] [Server thread/INFO]: iTz_Matty_ issued server command: /warp dol
+[20:04:15] [Server thread/INFO]: nOnAmE8520 issued server command: /tp iiiKubko
+[20:04:16] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[20:04:37] [Server thread/INFO]: ZofreM_ issued server command: /tp JouManTV
+[20:04:55] [Server thread/INFO]: nOnAmE8520 issued server command: /tp iiiKubko
+[20:05:03] [Server thread/INFO]: iTz_Matty_ has made the advancement [Enchanter]
+[20:05:29] [Server thread/INFO]: JouManTV issued server command: /tp JouManTV nOnAmE8520
+[20:05:33] [Server thread/INFO]: iTz_Matty_ issued server command: /warp dol
+[20:06:02] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[20:06:22] [Server thread/INFO]: ZofreM_ has made the advancement [Eye Spy]
+[20:06:23] [Server thread/INFO]: iiiKubko has made the advancement [Eye Spy]
+[20:06:34] [Server thread/INFO]: nOnAmE8520 has made the advancement [Eye Spy]
+[20:06:38] [Server thread/INFO]: JouManTV has made the advancement [Eye Spy]
+[20:06:50] [Server thread/INFO]: iTz_Matty_ issued server command: /warp dol
+[20:07:13] [Server thread/INFO]: ZofreM_ issued server command: /tp nOnAmE8520
+[20:09:33] [Server thread/INFO]: iiiKubko issued server command: /tp ZofreM_
+[20:09:34] [Server thread/INFO]: nOnAmE8520 issued server command: /tp ZofreM_
+[20:09:40] [Server thread/INFO]: JouManTV issued server command: /tp JouManTV ZofreM_
+[20:10:42] [Server thread/INFO]: iiiKubko issued server command: /tp iTz_Matty_
+[20:10:47] [Server thread/INFO]: iiiKubko issued server command: /home
+[20:10:55] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[20:10:55] [Server thread/INFO]: nOnAmE8520 left the game
+[20:11:15] [Server thread/INFO]: iiiKubko issued server command: /tp iTz_Matty_
+[20:11:16] [Server thread/INFO]: iTz_Matty_ issued server command: /home
+[20:11:23] [Server thread/INFO]: iiiKubko issued server command: /home
+[20:11:35] [Server thread/INFO]: JouManTV issued server command: /setwarp end
+[20:11:35] [pool-13-thread-1/INFO]: [Essentials] Creating empty config: /home/matty/server/plugins/Essentials/warps/end.yml
+[20:11:40] [Server thread/INFO]: iiiKubko issued server command: /tp JouManTV
+[20:13:24] [Server thread/INFO]: ZofreM_ has made the advancement [The End?]
+[20:13:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:13:24] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[20:13:40] [Server thread/INFO]: iiiKubko has made the advancement [The End?]
+[20:13:48] [Server thread/INFO]: JouManTV has made the advancement [The End?]
+[20:14:01] [User Authenticator #12/INFO]: UUID of player nOnAmE8520 is 7442e31b-fdda-3728-8739-3ef431eb9baf
+[20:14:01] [Server thread/INFO]: nOnAmE8520 joined the game
+[20:14:01] [Server thread/INFO]: nOnAmE8520[/84.47.111.22:63980] logged in with entity id 84560 at ([world]2091.897536922934, 21.0, -262.4325289664045)
+[20:14:06] [Server thread/INFO]: nOnAmE8520 has made the advancement [The End?]
+[20:14:16] [Server thread/INFO]: iTz_Matty_ issued server command: /Warp end
+[20:14:16] [Server thread/INFO]: iTz_Matty_ has made the advancement [Eye Spy]
+[20:14:22] [Server thread/INFO]: iTz_Matty_ has made the advancement [The End?]
+[20:14:40] [Server thread/INFO]: ZofreM_ issued server command: /home
+[20:15:02] [Server thread/INFO]: ZofreM_ issued server command: /tp iiiKubko
+[20:15:22] [Server thread/INFO]: iiiKubko lost connection: Disconnected
+[20:15:22] [Server thread/INFO]: iiiKubko left the game
+[20:15:41] [User Authenticator #13/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[20:15:42] [Server thread/INFO]: iiiKubko joined the game
+[20:15:42] [Server thread/INFO]: iiiKubko[/84.47.111.22:61479] logged in with entity id 85198 at ([world_the_end]-37.000622895905245, 89.89517685354714, 2.3433745006415476)
+[20:15:42] [Server thread/INFO]: iTz_Matty_ issued server command: /tp iiiKubko iTz_Matty_
+[20:15:42] [Server thread/WARN]: iiiKubko moved too quickly! 81.50062289590525,-23.200615305298356,12.156625499358451
+[20:16:39] [Server thread/INFO]: iiiKubko issued server command: /home
+[20:16:45] [Server thread/INFO]: iiiKubko issued server command: /tp nOnAmE8520
+[20:18:21] [Server thread/WARN]: iTz_Matty_ moved wrongly!
+[20:18:41] [Server thread/INFO]: nOnAmE8520 issued server command: /home
+[20:19:30] [Server thread/INFO]: nOnAmE8520 issued server command: /tp iTz_Matty_
+[20:19:57] [Server thread/INFO]: iiiKubko lost connection: Disconnected
+[20:19:57] [Server thread/INFO]: iiiKubko left the game
+[20:20:14] [User Authenticator #14/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[20:20:14] [Server thread/INFO]: iiiKubko joined the game
+[20:20:14] [Server thread/INFO]: iiiKubko[/84.47.111.22:61496] logged in with entity id 85690 at ([world_the_end]11.071211468477136, 63.0, -15.73925880235851)
+[20:21:04] [Server thread/INFO]: iTz_Matty_ lost connection: Disconnected
+[20:21:04] [Server thread/INFO]: iTz_Matty_ left the game
+[20:22:10] [User Authenticator #15/INFO]: UUID of player iTz_Matty_ is 6e5ebf48-9a3c-3430-951a-e275fe982085
+[20:22:10] [Server thread/INFO]: iTz_Matty_ joined the game
+[20:22:10] [Server thread/INFO]: iTz_Matty_[/78.99.35.241:53073] logged in with entity id 85834 at ([world_the_end]-6.123808752619085, 94.53224721191539, 20.11459942109867)
+[20:22:11] [Server thread/INFO]: iiiKubko issued server command: /tp iTz_Matty_ iiiKubko
+[20:22:20] [Server thread/INFO]: iiiKubko has made the advancement [Free the End]
+[20:22:44] [Server thread/INFO]: iiiKubko lost connection: Disconnected
+[20:22:44] [Server thread/INFO]: iiiKubko left the game
+[20:23:05] [Server thread/INFO]: ZofreM_ issued server command: /home
+[20:23:11] [User Authenticator #16/INFO]: UUID of player iiiKubko is 9088b3b1-a3ef-379b-8536-c9189b122f9f
+[20:23:11] [Server thread/INFO]: iiiKubko joined the game
+[20:23:11] [Server thread/INFO]: iiiKubko[/84.47.111.22:61513] logged in with entity id 86251 at ([world_the_end]14.300000011920929, 62.0, -34.69999998807907)
+[20:23:12] [Server thread/INFO]: iTz_Matty_ issued server command: /tp iiiKubko iTz_Matty_
+[20:23:15] [Server thread/INFO]: JouManTV issued server command: /home
+[20:24:47] [Async Chat Thread - #3/INFO]: <~Sumcek [Hlavny Cigán]> kick miso
+[20:25:14] [Server thread/INFO]: iTz_Matty_ issued server command: /lp user JouManTV permission set essentials.kick true
+[20:25:14] [pool-9-thread-1/INFO]: [LP] LOG > (iTz_Matty_) [U] (joumantv)
+[20:25:14] [pool-9-thread-1/INFO]: [LP] LOG > permission set essentials.kick true
+[20:25:27] [Server thread/INFO]: iTz_Matty_ issued server command: /msg JouManTV mozes kickovat ked chces
+[20:25:41] [Server thread/INFO]: JouManTV lost connection: Disconnected
+[20:25:41] [Server thread/INFO]: JouManTV left the game
+[20:26:04] [Server thread/INFO]: iTz_Matty_ issued server command: /fly
+[20:26:47] [Server thread/INFO]: iiiKubko issued server command: /kick JoumanTV
+[20:26:47] [Server thread/INFO]: [Essentials] iiiKubko was denied access to command.
+[20:27:50] [Server thread/INFO]: iiiKubko lost connection: Disconnected
+[20:27:50] [Server thread/INFO]: iiiKubko left the game
+[20:27:52] [Server thread/INFO]: iTz_Matty_ lost connection: Disconnected
+[20:27:52] [Server thread/INFO]: iTz_Matty_ left the game
+[20:27:56] [Server thread/INFO]: nOnAmE8520 lost connection: Disconnected
+[20:27:56] [Server thread/INFO]: nOnAmE8520 left the game
+[20:29:16] [Server thread/INFO]: ZofreM_ lost connection: Disconnected
+[20:29:16] [Server thread/INFO]: ZofreM_ left the game
+[21:05:18] [Server thread/INFO]: Stopping the server
+[21:05:18] [Server thread/INFO]: Stopping server
+[21:05:18] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.2.0
+[21:05:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[21:05:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:05:18] [Server thread/INFO]: [ChunkLoader] Disabling ChunkLoader v1.0.4
+[21:05:18] [Server thread/INFO]: [ChunkLoader] ChunkLoader v1.0.4 disabled!
+[21:05:18] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v2.2.0
+[21:05:18] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:05:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.6
+[21:05:18] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.2.35
+[21:05:18] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:05:18] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:05:18] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:05:18] [Server thread/INFO]: Saving players
+[21:05:18] [Server thread/INFO]: Saving worlds
+[21:05:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:05:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:05:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:05:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:05:19] [Server thread/INFO]: Flushing Chunk IO
+[21:05:19] [Server thread/INFO]: Closing Thread Pool
+[21:05:19] [Server thread/INFO]: Closing Server
